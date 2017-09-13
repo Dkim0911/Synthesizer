@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private MediaPlayer aNote, asNote, bNote, cNote, csNote, dNote, dsNote, eNote, fNote, fsNote, gNote,gsNote,highaNote,highbbNote,highbNote,highcNote,highcsNote,highdNote,highdsNote,higheNote,highfNote,highfsNote,highgNote,highgsNote;
     private NumberPicker notePicker;
     private final int WHOLE_NOTE = 1000;
+    //whatever
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
